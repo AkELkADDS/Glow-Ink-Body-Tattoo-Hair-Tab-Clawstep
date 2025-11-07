@@ -1,0 +1,271 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+   Fri 11/07/2025 23:34:48.51 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 1 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 to Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using destination: Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:34:51 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     706	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\meta.lsx100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\thumbnail.png 63%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    2.35 m    2.35 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2471807000 Bytes/sec.
+   Speed :           141437.931 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:34:51 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 to "Editor\Mods"\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using destination: Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:34:53 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  293571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :   286.6 k   286.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 11:34:53 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 to Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using destination: Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:34:55 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   13698	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\meta.lsx100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\GUI\metadata.lsf100%  
+	    New File  		   25829	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    2.39 m    2.39 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           627942250 Bytes/sec.
+   Speed :           35931.143 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:34:55 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 to Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[DEBUG] Using destination: Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:34:56 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  192093	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :   187.5 k   187.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           192093000 Bytes/sec.
+   Speed :           10991.649 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:34:56 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
