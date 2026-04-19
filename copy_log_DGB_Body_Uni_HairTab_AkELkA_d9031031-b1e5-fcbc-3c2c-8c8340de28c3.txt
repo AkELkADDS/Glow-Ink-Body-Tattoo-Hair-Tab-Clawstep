@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3 
-   Mon 02/16/2026 19:01:27.20 
+   Sun 04/19/2026  5:39:06.45 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:01:30 PM
+  Started : Sunday, April 19, 2026 5:39:10 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
 
@@ -66,7 +66,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     706	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\meta.lsx100%  
-	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\thumbnail.png 42%  100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2471807000 Bytes/sec.
    Speed :           141437.931 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:01:30 PM
+   Ended : Sunday, April 19, 2026 5:39:10 AM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:01:32 PM
+  Started : Sunday, April 19, 2026 5:39:12 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Editor\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
 
@@ -124,7 +124,11 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :   266.2 k   266.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, February 16, 2026 7:01:32 PM
+
+
+   Speed :           272683000 Bytes/sec.
+   Speed :           15603.046 MegaBytes/min.
+   Ended : Sunday, April 19, 2026 5:39:12 AM
 
  
 [DEBUG] Counting source files 
@@ -150,7 +154,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:01:33 PM
+  Started : Sunday, April 19, 2026 5:39:14 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
 
@@ -161,7 +165,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   13511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\meta.lsx100%  
-	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\mod_publish_logo.png100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\GUI\metadata.lsf100%  
 	    New File  		   25829	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Localization\English\english.xml100%  
 
@@ -174,9 +178,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1255791000 Bytes/sec.
-   Speed :            71856.937 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:01:33 PM
+   Speed :           627895500 Bytes/sec.
+   Speed :           35928.468 MegaBytes/min.
+   Ended : Sunday, April 19, 2026 5:39:14 AM
 
  
 [DEBUG] Counting source files 
@@ -202,7 +206,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:01:35 PM
+  Started : Sunday, April 19, 2026 5:39:16 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\Public\DGB_Body_Uni_HairTab_AkELkA_d9031031-b1e5-fcbc-3c2c-8c8340de28c3\
 
@@ -221,7 +225,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :   174.1 k   174.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, February 16, 2026 7:01:35 PM
+   Ended : Sunday, April 19, 2026 5:39:16 AM
 
  
 [DEBUG] Counting source files 
